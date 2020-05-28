@@ -1,7 +1,7 @@
 
 **Data Science in Python course**
 
-Delivered by Data Science Academy at AstraZeneca
+Data Science Academy, AstraZeneca, Cambridge, UK
 
 *Trainers*: 
 - Samuel H. Lewis
