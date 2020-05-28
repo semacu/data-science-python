@@ -9,8 +9,9 @@
 - Gabriella Rustici
 
 *Structure*:
-Block | w/c | Content | Materials 
-:----:|:---:|---------|-----------
+Week | w/c | Content | Materials 
+:---:|:---:|---------|-----------
+0 | - | Installating Python3 and Jupyter | instructions
 1 | 22nd June 2020 | Basic Python concepts I | lecture , assignment , solution
 2 | 29th June 2020 | Basic Python concepts II | lecture , assignment , solution
 3 | 6th July 2020 | Writing and using functions | lecture , assignment , solution
