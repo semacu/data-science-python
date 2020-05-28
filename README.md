@@ -1,7 +1,7 @@
 
-**Data Science in Python course**
+## Data Science in Python course
 
-Data Science Academy, AstraZeneca, Cambridge, UK
+*Venue*: Data Science Academy, AstraZeneca, Cambridge, UK
 
 *Trainers*: 
 - Samuel H. Lewis
