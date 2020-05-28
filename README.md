@@ -1,6 +1,8 @@
 
 **Data Science in Python course**
 
+Delivered by Data Science Academy at AstraZeneca
+
 *Trainers*: 
 - Samuel H. Lewis
 - Sergio Martinez Cuesta
