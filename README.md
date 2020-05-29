@@ -26,6 +26,6 @@ Week | w/c | Content | Materials
 Materials adapted from:
 
 - The University of Cambridge [Data Science in Python course](https://github.com/pycam/python-data-science)
-- [Data Carpentry](https://datacarpentry.org)
+- Data Carpentry [Python lessons](https://datacarpentry.org)
 - The CRUK-CI [Introduction to R during COVID-19 course](https://bioinformatics-core-shared-training.github.io/r-intro/)
 - [Wikipedia](https://www.wikipedia.org/)
