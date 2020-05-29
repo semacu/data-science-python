@@ -1,14 +1,12 @@
 
 ## Data Science in Python course
 
-*Venue*: Online training event hosted by the Data Science Academy, AstraZeneca, Cambridge (UK)
+**Venue**: Online training event hosted by the Data Science Academy, AstraZeneca, Cambridge (UK)
 
-*Trainers*:
-- Samuel H. Lewis
-- Sergio Martinez Cuesta
-- Gabriella Rustici
+**Trainers**: Samuel H. Lewis, Sergio Martinez Cuesta, Gabriella Rustici
 
-*Structure*:
+**Structure**:
+
 Week | w/c | Content | Materials
 :---:|:---:|---------|-----------
 0 | - | Introduction and installations | [materials](notebooks/week0_materials.ipynb)
@@ -19,7 +17,15 @@ Week | w/c | Content | Materials
 5 | 20th July 2020 | Data visualization | 
 6 | 27th July 2020 | Data analysis & modelling | 
 
-*Format*:
+**Format**:
 - **Mondays**: trainers deliver 1h lecture and introduce an assignment to participants
 - **Tuesday-Thursday**: participants work on the assignment and ask questions to trainers
 - **Friday**: trainers walk through a solution to the assignment and discuss questions and input with participants
+
+**Credit**
+Materials adapted from:
+
+- The University of Cambridge [Data Science in Python course](https://github.com/pycam/python-data-science)
+- [Data Carpentry](https://datacarpentry.org)
+- The CRUK-CI [Introduction to R during COVID-19 course](https://bioinformatics-core-shared-training.github.io/r-intro/)
+- [Wikipedia](https://www.wikipedia.org/)
