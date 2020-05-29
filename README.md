@@ -9,7 +9,7 @@ Online training event hosted by the Data Science Academy, AstraZeneca, Cambridge
 
 Samuel H. Lewis, Sergio Martinez Cuesta, Gabriella Rustici
 
-### Structure
+### Structure and links
 
 Week | w/c | Content | Materials
 :---:|:---:|---------|-----------
