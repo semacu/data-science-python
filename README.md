@@ -20,6 +20,6 @@ Week | w/c | Content | Materials
 6 | 27th July 2020 | Data analysis & modelling | 
 
 *Format*:
-- **Mondays**: trainers deliver 1h lecture and present assignment to participants
-- **Tuesday-Thursday**: participants work on their assignment and ask questions to trainers
-- **Friday**: trainers present the solution of the assignment
+- **Mondays**: trainers deliver 1h lecture and introduce an assignment to participants
+- **Tuesday-Thursday**: participants work on the assignment and ask questions to trainers
+- **Friday**: trainers walk through a solution to the assignment and discuss questions and input with participants
