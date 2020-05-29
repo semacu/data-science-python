@@ -15,7 +15,7 @@ Week | w/c | Content | Materials
 :---:|:---:|:-------:|-----------
 0 | before start | Getting ready | [Introduction and installations](notebooks/week0_materials.ipynb)
 1 | 22nd June 2020 | Recap basic Python concepts | [lecture](notebooks/week1_lecture.ipynb) assignment solution
-2 | 29th June 2020 | Writing and using functions | lecture assignment solution
+2 | 29th June 2020 | Writing and using functions |
 3 | 6th July 2020 | Data handling |
 4 | 13th July 2020 | Data visualization |
 5 | 20th July 2020 | Data analysis & modelling | 
