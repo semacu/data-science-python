@@ -11,13 +11,13 @@
 *Structure*:
 Week | w/c | Content | Materials
 :---:|:---:|---------|-----------
-0 | - | Installating Python3 and Jupyter | instructions
+0 | - | Installations and basic recap | materials
 1 | 22nd June 2020 | Basic Python concepts I | lecture , assignment , solution
-2 | 29th June 2020 | Basic Python concepts II | lecture , assignment , solution
-3 | 6th July 2020 | Writing and using functions | lecture , assignment , solution
-4 | 13th July 2020 | Data handling | lecture , assignment , solution
-5 | 20th July 2020 | Data visualization | lecture , assignment , solution
-6 | 27th July 2020 | Data analysis & modelling | lecture , assignment , solution
+2 | 29th June 2020 | Basic Python concepts II | 
+3 | 6th July 2020 | Writing and using functions |
+4 | 13th July 2020 | Data handling |
+5 | 20th July 2020 | Data visualization | 
+6 | 27th July 2020 | Data analysis & modelling | 
 
 *Format*:
 - **Mondays**: trainers deliver 1h lecture and present assignment to participants
