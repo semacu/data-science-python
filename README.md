@@ -7,7 +7,7 @@ Online training event hosted by the Data Science Academy, AstraZeneca, Cambridge
 
 ### Trainers
 
-Samuel H. Lewis, Sergio Martinez Cuesta, Gabriella Rustici
+Samuel H. Lewis, Sergio Martinez Cuesta, Gabriella Rustici, Daniel Roythorne 
 
 ### Structure and links
 
@@ -15,11 +15,11 @@ Week | w/c | Content | Materials
 :---:|:---:|:-------:|-----------
 0 | before start | Getting ready | [Introduction and installations](notebooks/week0_materials.ipynb)
 1 | 22nd June 2020 | Basic Python concepts I | [lecture](notebooks/week1_lecture.ipynb) assignment solution
-2 | 29th June 2020 | Basic Python concepts II | [lecture](notebooks/week2_lecture.ipynb) assignment solution
-3 | 6th July 2020 | Writing and using functions |
-4 | 13th July 2020 | Data handling |
-5 | 20th July 2020 | Data visualization | 
-6 | 27th July 2020 | Data analysis & modelling | 
+2 | 29th June 2020 | Writing and using functions | lecture assignment solution
+3 | 6th July 2020 | Data handling |
+4 | 13th July 2020 | Data visualization |
+5 | 20th July 2020 | Data analysis & modelling | 
+6 | 27th July 2020 | Communicating and publishing data | 
 
 - **Mondays**: trainers deliver 1h lecture and introduce an assignment to participants
 - **Tuesday-Thursday**: participants work on the assignment and ask questions to trainers
