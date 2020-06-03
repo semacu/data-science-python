@@ -7,7 +7,7 @@ Online training event hosted by the Data Science Academy, AstraZeneca, Cambridge
 
 ### Trainers
 
-Samuel H. Lewis, Sergio Martinez Cuesta, Gabriella Rustici, Daniel Roythorne 
+Gabriella Rustici, Samuel H. Lewis, Sergio Martinez Cuesta, Daniel Roythorne 
 
 ### Structure and links
 
