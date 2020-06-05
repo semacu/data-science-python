@@ -14,7 +14,7 @@ Gabriella Rustici, Samuel H. Lewis, Sergio Martinez Cuesta, Daniel Roythorne
 Week | w/c | Content | Materials
 :---:|:---:|:-------:|-----------
 0 | before start | Getting ready | [Introduction and installations](notebooks/week0_materials.ipynb)
-1 | 22nd June 2020 | Recap basic Python concepts | [lecture and assignment](notebooks/week1_lecture.ipynb), solution
+1 | 22nd June 2020 | Recap basic Python concepts | [lecture](notebooks/week1_lecture.ipynb)
 2 | 29th June 2020 | Writing and using functions |
 3 | 6th July 2020 | Data handling |
 4 | 13th July 2020 | Data visualization |
