@@ -32,7 +32,17 @@ Week | Title | Activity | Date | Time | Materials
 - **Tuesday-Thursday**: participants work on the assignment and consult with to their [tutors](Data_Science_in_Python_timetable.xlsx) via Microsoft Teams or e-mail
 - **Friday**: trainers walk through a solution to the assignment and discuss questions and receive input from participants
 
-### Credit
+### Obtaining Course Materials
+
+The course materials will be updated throughout the course, so we recommend that you download the most recent version of the materials before each lecture or recap session. The latest notebooks and other materials for this course can be obtained by the following these steps:
+
+1. Go to the github page for the course: https://github.com/semacu/data-science-python
+
+<img src=\"../img/material_download_1.png\">
+
+
+
+### Credits
 
 Materials adapted from:
 
