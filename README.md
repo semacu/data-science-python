@@ -5,9 +5,11 @@
 
 Online training event hosted by the Data Science Academy, AstraZeneca, Cambridge (UK)
 
+
 ### Trainers, tutors, developers
 
 Daniel Roythorne, Daniel McKinney, Gabriella Rustici, Mark Porter, Ryan Whittaker, Samuel Howard Lewis, Sergio Martínez Cuesta, Tim Hargreaves 
+
 
 ### Structure and links
 
@@ -32,6 +34,7 @@ Week | Title | Activity | Date | Time | Materials
 - **Tuesday-Thursday**: participants work on the assignment and consult with to their [tutors](Data_Science_in_Python_timetable.xlsx) via Microsoft Teams or e-mail
 - **Friday**: trainers walk through a solution to the assignment and discuss questions and receive input from participants
 
+
 ### Obtaining Course Materials
 
 The course materials will be updated throughout the course, so we recommend that you download the most recent version of the materials before each lecture or recap session. The latest notebooks and other materials for this course can be obtained by the following these steps:
@@ -40,6 +43,25 @@ The course materials will be updated throughout the course, so we recommend that
 
 <img src="img/material_download_1.png">
 
+2. Click on the green **Clone or download** button, which is on the right of the screen above the list of folders and files in the repository. This will cause a drop-down menu to appear:
+
+<img src="img/material_download_2.png">
+
+3. Click on the **Download ZIP** option in the drop-down menu, and a zip file containing the course content will be downloaded to your computer:
+
+4. Move the zip file to wherever in your file system you want the course materials to be held e.g. your home directory
+
+<img src="img/material_download_3.png">
+
+5. Decompress the zip file to get a folder containing the course materials. Depending on your operating system, you may need to double-click the zip file, or issue a command on the terminal. On Windows 10, you can right click, click **Extract All...**, click **Extract**, and the folder will be decompressed in the same location as the zip file
+
+<img src="../img/material_download_4.png">
+
+6. Launch the Jupyter Notebook app. Depending on your operating system, you may be able to search for \"Jupyter\" in the system menu and click the icon that appears, or you may need to issue a command on the terminal. On Windows, you can hit the Windows key, search for \"Jupyter\", and click the icon that appears:
+
+<img src="../img/material_download_5.png">
+
+7. After launching, the Jupyter notebook home menu will open in your browser. Navigate to the course materials that you decompressed in step 5, and click on the notebook for this week to launch it.
 
 
 ### Credits
