@@ -38,7 +38,7 @@ The course materials will be updated throughout the course, so we recommend that
 
 1. Go to the github page for the course: https://github.com/semacu/data-science-python
 
-<img src=\"../img/material_download_1.png\">
+<img src="img/material_download_1.png">
 
 
 
