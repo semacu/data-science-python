@@ -55,11 +55,11 @@ The course materials will be updated throughout the course, so we recommend that
 
 5. Decompress the zip file to get a folder containing the course materials. Depending on your operating system, you may need to double-click the zip file, or issue a command on the terminal. On Windows 10, you can right click, click **Extract All...**, click **Extract**, and the folder will be decompressed in the same location as the zip file
 
-<img src="../img/material_download_4.png">
+<img src="img/material_download_4.png">
 
 6. Launch the Jupyter Notebook app. Depending on your operating system, you may be able to search for \"Jupyter\" in the system menu and click the icon that appears, or you may need to issue a command on the terminal. On Windows, you can hit the Windows key, search for \"Jupyter\", and click the icon that appears:
 
-<img src="../img/material_download_5.png">
+<img src="img/material_download_5.png">
 
 7. After launching, the Jupyter notebook home menu will open in your browser. Navigate to the course materials that you decompressed in step 5, and click on the notebook for this week to launch it.
 
