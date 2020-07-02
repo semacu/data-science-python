@@ -19,7 +19,7 @@ Week | Title | Activity | Date | Time | Materials
 1 | Recap basic Python concepts | Lecture | 22/06/2020 | 3-4pm BST | [Lecture](notebooks/week1_lecture.ipynb)
 1 | Recap basic Python concepts | Throubleshooting | 22/06/2020 | 4-5pm BST | -
 1 | Recap basic Python concepts | Practical recap | 26/06/2020 | 3-4pm BST | [Solution](notebooks/week1_solution.ipynb)
-2 | Writing and using functions | Lecture | 29/06/2020 | 3-4pm BST | 
+2 | Writing and using functions | Lecture | 29/06/2020 | 3-4pm BST | [Lecture](notebooks/week2_lecture.ipynb)
 2 | Writing and using functions | Practical recap | 03/07/2020 | 3-4pm BST | 
 3 | Data handling | Lecture | 06/07/2020 | 3-4pm BST |
 3 | Data handling | Practical recap | 10/07/2020 | 3-4pm BST |
