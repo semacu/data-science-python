@@ -72,4 +72,5 @@ Materials adapted from:
 - The University of Cambridge [Data Science in Python course](https://github.com/pycam/python-data-science)
 - Data Carpentry [Python lessons](https://datacarpentry.org)
 - The CRUK-CI [Introduction to R during COVID-19 course](https://bioinformatics-core-shared-training.github.io/r-intro/)
+- Python pandas [documentation](https://pandas.pydata.org/docs/)
 - [Wikipedia](https://www.wikipedia.org/)
