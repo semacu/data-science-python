@@ -23,7 +23,7 @@ Week | Title | Activity | Date | Time | Materials
 2 | Writing and using functions | Practical recap | 03/07/2020 | 3-4pm BST | [Solution](notebooks/week2_solution.ipynb)
 3 | Data handling | Lecture | 06/07/2020 | 3-4pm BST | [Lecture](notebooks/week3_lecture.ipynb)
 3 | Data handling | Practical recap | 10/07/2020 | 3-4pm BST | [Solution](notebooks/week3_solution.ipynb)
-4 | Data visualization | Lecture | 13/07/2020 | 3-4pm BST |
+4 | Data visualization | Lecture | 13/07/2020 | 3-4pm BST | [Lecture](notebooks/week4_lecture.ipynb)
 4 | Data visualization | Practical recap | 17/07/2020 | 3-4pm BST |
 5 | Data analysis and modeling | Lecture | 20/07/2020 | 3-4pm BST |
 5 | Data analysis and modeling | Practical recap | 24/07/2020 | 3-4pm BST |
