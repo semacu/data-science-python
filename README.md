@@ -8,24 +8,24 @@ Online training event hosted by the Data Science Academy, AstraZeneca, Cambridge
 
 ### Trainers, tutors, developers
 
-Daniel Roythorne, Daniel McKinney, Gabriella Rustici, Mark Porter, Ryan Whittaker, Samuel Howard Lewis, Sergio Martínez Cuesta, Tim Hargreaves 
+Tim Hargreaves, Samuel Howard Lewis, Sergio Martínez Cuesta, Daniel McKinney, Mark Porter, Daniel Roythorne, Gabriella Rustici, Ryan Whittaker
 
 
 ### Structure and links
 
-Week | Title | Activity | Date | Time | Materials
-:---:|:-----:|:--------:|:----:|:----:|:---------:
-0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb)
-1 | Recap basic Python concepts | Lecture | 22/06/2020 | 3-4pm BST | [Lecture](notebooks/week1_lecture.ipynb)
-1 | Recap basic Python concepts | Throubleshooting | 22/06/2020 | 4-5pm BST | -
-1 | Recap basic Python concepts | Practical recap | 26/06/2020 | 3-4pm BST | [Solution](notebooks/week1_solution.ipynb)
-2 | Writing and using functions | Lecture | 29/06/2020 | 3-4pm BST | [Lecture](notebooks/week2_lecture.ipynb)
-2 | Writing and using functions | Practical recap | 03/07/2020 | 3-4pm BST | [Solution](notebooks/week2_solution.ipynb)
-3 | Data handling | Lecture | 06/07/2020 | 3-4pm BST | [Lecture](notebooks/week3_lecture.ipynb)
-3 | Data handling | Practical recap | 10/07/2020 | 3-4pm BST | [Solution](notebooks/week3_solution.ipynb)
-4 | Data visualization | Lecture | 13/07/2020 | 3-4pm BST | [Lecture](notebooks/week4_lecture.ipynb)
-4 | Data visualization | Practical recap | 17/07/2020 | 3-4pm BST | [Solution](notebooks/week4_solution.ipynb)
-5 | Data analysis and modeling | Lecture | 20/07/2020 | 3-4pm BST | [Lecture](notebooks/week5_lecture.ipynb)
+Week | Title | Activity | Date | Time | Materials | Lead |
+:---:|:-----:|:--------:|:----:|:----:|:---------:|:----:|
+0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | SMC
+1 | Recap basic Python concepts | Lecture | 22/06/2020 | 3-4pm BST | [Lecture](notebooks/week1_lecture.ipynb) | SMC
+1 | Recap basic Python concepts | Throubleshooting | 22/06/2020 | 4-5pm BST | - | All
+1 | Recap basic Python concepts | Practical recap | 26/06/2020 | 3-4pm BST | [Solution](notebooks/week1_solution.ipynb) | SHL
+2 | Writing and using functions | Lecture | 29/06/2020 | 3-4pm BST | [Lecture](notebooks/week2_lecture.ipynb) | SHL
+2 | Writing and using functions | Practical recap | 03/07/2020 | 3-4pm BST | [Solution](notebooks/week2_solution.ipynb) | SHL
+3 | Data handling | Lecture | 06/07/2020 | 3-4pm BST | [Lecture](notebooks/week3_lecture.ipynb) | SMC
+3 | Data handling | Practical recap | 10/07/2020 | 3-4pm BST | [Solution](notebooks/week3_solution.ipynb) | SMC
+4 | Data visualization | Lecture | 13/07/2020 | 3-4pm BST | [Lecture](notebooks/week4_lecture.ipynb) | SHL
+4 | Data visualization | Practical recap | 17/07/2020 | 3-4pm BST | [Solution](notebooks/week4_solution.ipynb) | SHL
+5 | Data analysis and modeling | Lecture | 20/07/2020 | 3-4pm BST | [Lecture](notebooks/week5_lecture.ipynb) | SHL
 5 | Data analysis and modeling | Practical recap | 24/07/2020 | 3-4pm BST |
 6 | Introduction to machine learning | Lecture | 27/07/2020 | 3-4pm BST |
 6 | Introduction to machine learning | Practical recap | 31/07/2020 | 3-4pm BST |
