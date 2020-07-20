@@ -15,10 +15,10 @@ Tim Hargreaves, Samuel Howard Lewis, Sergio Martínez Cuesta, Daniel McKinney, M
 
 Week | Title | Activity | Date | Time | Materials | Lead |
 :---:|:-----:|:--------:|:----:|:----:|:---------:|:----:|
-0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | SMC
+0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | -
 1 | Recap basic Python concepts | Lecture | 22/06/2020 | 3-4pm BST | [Lecture](notebooks/week1_lecture.ipynb) | SMC
 1 | Recap basic Python concepts | Throubleshooting | 22/06/2020 | 4-5pm BST | - | All
-1 | Recap basic Python concepts | Practical recap | 26/06/2020 | 3-4pm BST | [Solution](notebooks/week1_solution.ipynb) | SHL
+1 | Recap basic Python concepts | Practical recap | 26/06/2020 | 3-4pm BST | [Solution](notebooks/week1_solution.ipynb) | SMC
 2 | Writing and using functions | Lecture | 29/06/2020 | 3-4pm BST | [Lecture](notebooks/week2_lecture.ipynb) | SHL
 2 | Writing and using functions | Practical recap | 03/07/2020 | 3-4pm BST | [Solution](notebooks/week2_solution.ipynb) | SHL
 3 | Data handling | Lecture | 06/07/2020 | 3-4pm BST | [Lecture](notebooks/week3_lecture.ipynb) | SMC
