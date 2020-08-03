@@ -28,7 +28,7 @@ Week | Title | Activity | Date | Time | Materials | Lead |
 5 | Data analysis and modeling | Lecture | 20/07/2020 | 3-4pm BST | [Lecture](notebooks/week5_lecture.ipynb) | SHL
 5 | Data analysis and modeling | Practical recap | 24/07/2020 | 3-4pm BST | [Solution](notebooks/week5_solution.ipynb) | SHL/SMC
 6 | Introduction to machine learning | Lecture | 27/07/2020 | 3-4pm BST | [Lecture](notebooks/week6_lecture.ipynb) | DH
-6 | Introduction to machine learning | Practical recap | 31/07/2020 | 3-4pm BST |
+6 | Introduction to machine learning | Practical recap | 31/07/2020 | 3-4pm BST | [Solution](notebooks/week6_solution.ipynb) | DH
 
 - **Mondays**: trainers deliver 1h lecture and introduce an assignment to participants
 - **Tuesday-Thursday**: participants work on the assignment and consult with to their [tutors](Data_Science_in_Python_timetable.xlsx) via Microsoft Teams or e-mail
