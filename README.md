@@ -64,6 +64,11 @@ The course materials will be updated throughout the course, so we recommend that
 7. After launching, the Jupyter notebook home menu will open in your browser. Navigate to the course materials that you decompressed in step 5, and click on the notebook for this week to launch it.
 
 
+### Feedback
+
+[June-July 2020 course](feedback/June-July2020.xlsx)
+
+
 ### Credits
 
 Materials adapted from:
